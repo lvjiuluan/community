@@ -10,4 +10,6 @@ public class CommunityApplicationTests {
     public void contextLoads() {
     }
 
+    // 实现一个快速幂计算的方法
+
 }
